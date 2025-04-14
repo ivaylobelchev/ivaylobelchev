@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ivaylobelchev
 - 👀 I’m interested in Computers, Programming and Mobile Networks.
-- 🌱 I’m currently studying Software Engineering in Sofia University.
+- 🌱 I’m a Software Engineering graduate from Sofia University.
